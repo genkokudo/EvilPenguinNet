@@ -8,6 +8,7 @@ Nugetから以下をインストールします。
 
 【必要な設定】
 App.configの以下のパラメータを、Twitterで発行したキーに変更します。
+App.configが無い場合は追加が必要…。
 
       <add key="ConsumerKey" value="aqwsedfrtghyjuol"/>
       <add key="ConsumerSecret" value="gfhauwio236w7892vnal839pry98awpjm08awp"/>
