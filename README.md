@@ -1,2 +1,11 @@
 # EvilPenguinNet
-Twitterの過去ツイート消すためのアプリ
+Twitterの過去ツイート消すアプリ作ろうと思ったけどライブラリに必要な命令が足りなかったので放置
+
+【必要な設定】
+App.configの以下のパラメータを、Twitterで発行したキーに変更します。
+
+      <add key="ConsumerKey" value="aqwsedfrtghyjuol"/>
+      <add key="ConsumerSecret" value="gfhauwio236w7892vnal839pry98awpjm08awp"/>
+      <add key="AccessToken" value="3789pqv8ldsj7t9aej78t9a839w8r"/>
+      <add key="AccessSecret" value="wcril2678yav7ru3wak72816c8oaa86r"/>
+
