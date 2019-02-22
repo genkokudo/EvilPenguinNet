@@ -1,5 +1,6 @@
 # EvilPenguinNet
-Twitterの過去ツイート消すアプリです。
+Twitterの過去ツイート消すアプリです。  
+WPF製です。
 ## Getting Started
 本ソフトウェアはMITライセンスとしていますが、APIキーはビルドして利用する人が発行するものとします。  
 以下のサイトでAPIキーを発行してください。
